@@ -15,7 +15,7 @@
     </properties>
 
     <build>
-        <finalName>Snapshot_Build_3</finalName>
+        <finalName>Snapshot_Build_5_version</finalName>
         <plugins>
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
