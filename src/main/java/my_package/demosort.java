@@ -8,7 +8,7 @@ public class demosort {
         // Create a list of strings
         ArrayList<String> al = new ArrayList<String>();
         al.add("Geeks For Geeks");
-        al.add("Friends")
+        al.add("Friends");
         al.add("Dear");
         al.add("Is");
         al.add("Superb");
