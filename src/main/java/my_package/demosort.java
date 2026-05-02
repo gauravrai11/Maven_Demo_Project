@@ -21,14 +21,7 @@ public class demosort {
         System.out.println("List after the use of"
                            + " Collection.sort() :\n" + al);
         
-        System.out.println("List after the use of"
-                + " Collection.sort() :\n" + al);
         
-        System.out.println("List after the use of"
-                + " Collection.sort() :\n" + al);
-        
-        System.out.println("List after the use of"
-                + " Collection.sort() :\n" + al);
     }
 
 }
